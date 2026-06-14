@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+*.log
+logs/
+dist/
+tmp_*.json
+assignment_pre_submit_review_*.json
